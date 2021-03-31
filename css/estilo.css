@@ -1,0 +1,8 @@
+body {
+    background-color: orange;
+}
+
+body>p>h1 {
+    text-align: center;
+    color: blue;
+}
